@@ -111,6 +111,86 @@ No problem, although the pressure is high, but you're stronger than you think �
 没关系，虽然压力很大，但是你比想象中更强大，很厉害 💪🌟
 ```
 
+### 4. 职场压力（更多示例）
+
+#### 996工作制
+```
+No problem, although the 996 schedule is demanding, but your dedication will lead to growth 🌟💼
+没关系，虽然996工作制很辛苦，但是你的付出终将带来成长，很厉害 🌟💼
+```
+
+#### 失业焦虑
+```
+No problem, although you're worried about unemployment, but new opportunities are waiting for you 🎯✨
+没关系，虽然你担心失业，但是新的机会正在等待着你，很厉害 🎯✨
+```
+
+#### 职场打压
+```
+No problem, although you're facing workplace pressure, but your resilience will overcome it 💪🔥
+没关系，虽然你面临职场打压，但是你的韧性会战胜一切，很厉害 💪🔥
+```
+
+### 5. 心理健康
+
+#### 焦虑情绪
+```
+No problem, although anxiety is overwhelming, but taking deep breaths helps 🌬️💫
+没关系，虽然焦虑感很强烈，但是深呼吸会帮助你，很厉害 🌬️💫
+```
+
+#### 压力管理
+```
+No problem, although stress seems endless, but you can handle it one step at a time 🧘‍♂️✨
+没关系，虽然压力似乎无穷无尽，但是你可以一步一步来，很厉害 🧘‍♂️✨
+```
+
+#### 自我怀疑
+```
+No problem, although you're doubting yourself, but your potential is limitless 🌟💫
+没关系，虽然你在怀疑自己，但是你的潜力是无限的，很厉害 🌟💫
+```
+
+### 6. 互联网行业
+
+#### 技术更新
+```
+No problem, although technology changes rapidly, but you're adapting and learning 🚀💻
+没关系，虽然技术更新很快，但是你正在适应和学习，很厉害 🚀💻
+```
+
+#### 项目压力
+```
+No problem, although the project deadline is tight, but you're making progress every day 📈💪
+没关系，虽然项目截止日期很紧，但是你每天都在进步，很厉害 📈💪
+```
+
+#### 团队协作
+```
+No problem, although team dynamics are challenging, but you're growing as a leader 👥🌟
+没关系，虽然团队协作有挑战，但是你正在成长为领导者，很厉害 👥🌟
+```
+
+### 7. 生活平衡
+
+#### 工作生活
+```
+No problem, although work-life balance is hard, but you're learning to prioritize 🎯⚖️
+没关系，虽然工作生活平衡很难，但是你正在学会优先排序，很厉害 🎯⚖️
+```
+
+#### 时间管理
+```
+No problem, although time seems limited, but you're becoming more efficient ⏰✨
+没关系，虽然时间似乎有限，但是你正在变得更有效率，很厉害 ⏰✨
+```
+
+#### 自我关爱
+```
+No problem, although you're busy taking care of others, but remember to care for yourself too 💝🌱
+没关系，虽然你忙于照顾他人，但是也要记得关爱自己，很厉害 💝🌱
+```
+
 ## 开发进度
 
 | 日期 | 模块/文件 | 优化/开发内容 | 状态 | 备注 |
