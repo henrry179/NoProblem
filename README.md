@@ -7,14 +7,14 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/henrry179/NoProblem?style=for-the-badge)](https://github.com/henrry179/NoProblem/stargazers)
 [![Forks](https://img.shields.io/github/forks/henrry179/NoProblem?style=for-the-badge)](https://github.com/henrry179/NoProblem/network/members)
-[![Issues](https://img.shields.io/github/issues/henrry179/NoProblem?style=for-the-badge)](https://github.com/henrry179/NoProblem/issues)
+[![Issues](https://img.shields.io/badge/Issues-Welcome-orange?style=for-the-badge)](https://github.com/henrry179/NoProblem/issues)
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/henrry179/NoProblem/main/assets/banner.png" alt="NoProblemBot Banner" width="600px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=100&lines=NoProblemBot;积极鼓励短句生成器" alt="NoProblemBot Banner"/>
 </div>
 
 ## 📑 目录
